@@ -1,3 +1,8 @@
+## Docker setup
+
+- RUN
+> docker-compose up -d --build
+
 ## Routes
 
 - POST /jobs
